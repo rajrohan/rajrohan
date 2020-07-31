@@ -13,6 +13,11 @@ The focus of research is to build an infrastructure designed to facilitate new l
 
 Key terms: Data Infrastructure, Data Warehouse, Business Intelligence, ETL, Continuous Integration and Continuous Deployment (CI/CD) Pipeline, Docker, Kubernetes (OKD), GitLab, PostgreSQL, Tableau, Python, AWS services, GCP services, Azure services, Cloud computing
 
+<h2>Open source Contribution:</h2>
+
+  - https://github.com/Stewart86/roadtaxTracker/pull/27
+  - https://github.com/blavejr/OrganiseDesktop/pull/80
+
 <!--
 **rajrohan/rajrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
