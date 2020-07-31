@@ -8,6 +8,11 @@ LinkedIn Profile: https://www.linkedin.com/in/rohan-raj-8ba608b8/
   -  ETL workflow and data analysis. ETL-workflow using prefect and pygrametl (SCD, slow changing dimension). Product classification based on product name. [link](https://github.com/rajrohan/ETL-workflow)
   -  Data-Driven-Storytelling-Old-Car-Price-Prediction [link](https://github.com/rajrohan/Data-Driven-Storytelling-Old-Car-Price-Prediction)
 
+<h2>Open source Contribution:</h2>
+
+  - https://github.com/Stewart86/roadtaxTracker/pull/27
+  - https://github.com/blavejr/OrganiseDesktop/pull/80
+  
 <h2>Master Thesis:</h2>
 
 **Thesis Title: End to End UX Analytics Framework.**\
@@ -15,10 +20,13 @@ The focus of research is to build an infrastructure designed to facilitate new l
 
 Key terms: Data Infrastructure, Data Warehouse, Business Intelligence, ETL, Continuous Integration and Continuous Deployment (CI/CD) Pipeline, Docker, Kubernetes (OKD), GitLab, PostgreSQL, Tableau, Python, AWS services, GCP services, Azure services, Cloud computing
 
-<h2>Open source Contribution:</h2>
+<h2>Bachelor Thesis:</h2>
 
-  - https://github.com/Stewart86/roadtaxTracker/pull/27
-  - https://github.com/blavejr/OrganiseDesktop/pull/80
+**Thesis Title: New avenues in opinion mining : Considering dual sentiment analysis.**\
+To address this problem for sentiment classifi cation, Dual sentiment analysis (DSA) has been expanded from a 2 facet classifi cation to a 3 facet classifi cation which considers neutral reviews from the data set as well for better accuracy and understanding. For each training and test review, a novel data expansion technique is being proposed that will use opposite class labels of positive and negative sentiments in one to one correspondence for a dual training and dual prediction algorithm. A corpus method based pseudo-antonym dictionary has also been proposed to remove the single language (English) based restriction and to maintain domain consistency as it will be pairing up words on the basis of sentiment strength.
+[paper](http://ijsae.in/index.php/ijsae/article/view/77)
+
+
 
 <!--
 **rajrohan/rajrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
