@@ -5,6 +5,8 @@ LinkedIn Profile: https://www.linkedin.com/in/rohan-raj-8ba608b8/
 
   -  A Visual Narrative of Ramayana using Extractive Summarisation, Topic Modeling and NER tagging. [link](https://github.com/rajrohan/ramayanaocr)
   -  Building pipeline to process the real-time data using Spark and Mongodb/postgresql. [link](https://github.com/rajrohan/spark-streaming-twitter)
+  -  ETL workflow and data analysis. ETL-workflow using prefect and pygrametl (SCD, slow changing dimension). Product classification based on product name. [link](https://github.com/rajrohan/ETL-workflow)
+  -  Data-Driven-Storytelling-Old-Car-Price-Prediction [link](https://github.com/rajrohan/Data-Driven-Storytelling-Old-Car-Price-Prediction)
 
 <h2>Master Thesis:</h2>
 
