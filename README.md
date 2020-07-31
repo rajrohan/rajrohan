@@ -1,5 +1,9 @@
 ### Hi there 👋
+LinkedIn Profile: https://www.linkedin.com/in/rohan-raj-8ba608b8/
 
+Featured projects:
+1. A Visual Narrative of Ramayana using Extractive Summarisation, Topic Modeling and NER tagging 
+2. Building pipeline to process the real-time data using Spark and Mongodb/postgresql.
 <!--
 **rajrohan/rajrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
