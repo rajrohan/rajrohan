@@ -4,6 +4,11 @@ LinkedIn Profile: https://www.linkedin.com/in/rohan-raj-8ba608b8/
 Featured projects:
 1. A Visual Narrative of Ramayana using Extractive Summarisation, Topic Modeling and NER tagging 
 2. Building pipeline to process the real-time data using Spark and Mongodb/postgresql.
+
+Master Thesis:
+Thesis Title: End to End UX Analytics Framework.
+The focus of research is to build an infrastructure designed to facilitate new levels of analytical insights derived from exploiting all relevant data. The platform will cover various forms of data and analytics: transactional data, order data, App usage data, user data, and so forth. It will also establish an adaptable, scalable IT infrastructure, tuned for a complex data environment, and it will be designed to benefit from the cloud technologies. The end product will be to perform data analytics for taking insightful business and design decisions.
+
 <!--
 **rajrohan/rajrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
